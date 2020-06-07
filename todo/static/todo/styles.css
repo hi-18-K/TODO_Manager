@@ -1,0 +1,33 @@
+body {
+	background:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('todoimg.jpeg');
+
+	font-family: 'Oswald', 'Futura', sans-serif;
+}
+.wrapper {
+	margin-top: 10% !important;
+	width: auto;
+	max-width: 1500px;
+	overflow:hidden;
+}
+#content {
+	background: #ccefff;
+	padding: 15px;
+}
+#content > h2 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 0;
+}
+.t10 {
+	margin-top: 8px;
+}
+.t20 {
+	margin-top: 8px;
+}
+.todo-completed {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
+.list-group-item {
+	color: black;
+}
