@@ -5,22 +5,22 @@ TODO web app that maintains tasks for user (settings can be changed according to
 so this is our TODO_Manager (which can be used for monthy or annual task setting or day today task management with slight modifications)
 :cowboy_hat_face:
 
+->our project with name TODO_Manager(can be used personal manager/assistant).
 
-We have not yet deployed it but prepared both front-end and back-end!
+->we can further add functionality of budget planning etc with it also can add it with some chrome extensions for eg- for setting reminders!! :thinking:
+
+We have not yet deployed it but prepared both front-end and back-end! (running out of time but are working on the same and will be back with the same soon!)
 
 for running the system in your local environment follow the instructions:-
 1) clone the repository in your local environment.
-2) start commandline interface.
+2) start command-line interface.
 3) change path to the project directory.
-4) run the project by command:- python manage.py runserver.
+4) run the project by command:- 'python manage.py runserver'.
 5) on your browser open localhost:8000 to check out the apps functionality.
 
 
 
 Next is explanation of files stack:-
-->here we have created a project with name TODO_Manager(can be used oersonal manager/assistant).
-
-->we can further add functionality of budget planning etc with it also can add it with some chrome extensions for eg- for setting reminders!! :thinking:
 
 ->an django app named users(where we ahve placed all the template pages- registration, login, logout, home ie index).
 
@@ -32,5 +32,8 @@ Next is explanation of files stack:-
 ->other supporting files for deployment.
 
 
-We have not yet deployed our web-app..will do it soon!! :upside_down_face:
+We have not yet deployed our web-app..will do it soon(within a span of 5-6 days)!! :upside_down_face:
+
+
+(presentation provided in files as it could not be uplaoded while making submission :( dont know why the error persisted !!)
 
