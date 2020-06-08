@@ -35,8 +35,6 @@ Next is explanation of files stack:-
 We have not yet deployed our web-app..will do it soon(within a span of 5-6 days)!! :upside_down_face:
 
 
-(presentation provided in files as it could not be uplaoded while making submission :( dont know why the error persisted !!)
-
 Link to our Event_registration system :- (not too great but working really well)
 https://github.com/hi-18-K/Event_registration     
 
